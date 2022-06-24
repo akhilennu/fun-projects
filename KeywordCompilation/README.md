@@ -9,3 +9,7 @@ This start and end time will be used to extract a clip from the video that conta
 
 ## Output
 Compilation of all the clips in the video file that contain the keyword will be created and exported as a video.
+
+## Examples
+- [I don't know - Kung Fu Panda](https://youtu.be/QLN0PvMPQO0)
+- [Kung Fu - Kung Fu Panda 2](https://youtu.be/hNVxX3R1AKw)
